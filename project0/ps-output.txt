@@ -1,0 +1,247 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 06:05 ?        00:00:10 /sbin/init splash
+root           2       0  0 06:05 ?        00:00:00 [kthreadd]
+root           3       2  0 06:05 ?        00:00:00 [rcu_gp]
+root           4       2  0 06:05 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 06:05 ?        00:00:00 [slub_flushwq]
+root           6       2  0 06:05 ?        00:00:00 [netns]
+root           8       2  0 06:05 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 06:05 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 06:05 ?        00:00:00 [rcu_tasks_kthread]
+root          12       2  0 06:05 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          13       2  0 06:05 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          14       2  0 06:05 ?        00:00:06 [ksoftirqd/0]
+root          15       2  0 06:05 ?        00:00:29 [rcu_preempt]
+root          16       2  0 06:05 ?        00:00:01 [migration/0]
+root          17       2  0 06:05 ?        00:00:00 [idle_inject/0]
+root          19       2  0 06:05 ?        00:00:00 [cpuhp/0]
+root          20       2  0 06:05 ?        00:00:00 [cpuhp/1]
+root          21       2  0 06:05 ?        00:00:00 [idle_inject/1]
+root          22       2  0 06:05 ?        00:00:02 [migration/1]
+root          23       2  0 06:05 ?        00:00:01 [ksoftirqd/1]
+root          25       2  0 06:05 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          26       2  0 06:05 ?        00:00:00 [cpuhp/2]
+root          27       2  0 06:05 ?        00:00:00 [idle_inject/2]
+root          28       2  0 06:05 ?        00:00:02 [migration/2]
+root          29       2  0 06:05 ?        00:00:01 [ksoftirqd/2]
+root          31       2  0 06:05 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          32       2  0 06:05 ?        00:00:00 [cpuhp/3]
+root          33       2  0 06:05 ?        00:00:00 [idle_inject/3]
+root          34       2  0 06:05 ?        00:00:02 [migration/3]
+root          35       2  0 06:05 ?        00:00:10 [ksoftirqd/3]
+root          37       2  0 06:05 ?        00:00:00 [kworker/3:0H-kblockd]
+root          38       2  0 06:05 ?        00:00:00 [kdevtmpfs]
+root          39       2  0 06:05 ?        00:00:00 [inet_frag_wq]
+root          40       2  0 06:05 ?        00:00:00 [kauditd]
+root          41       2  0 06:05 ?        00:00:02 [khungtaskd]
+root          43       2  0 06:05 ?        00:00:00 [oom_reaper]
+root          45       2  0 06:05 ?        00:00:00 [writeback]
+root          46       2  0 06:05 ?        00:01:29 [kcompactd0]
+root          47       2  0 06:05 ?        00:00:00 [ksmd]
+root          48       2  0 06:05 ?        00:00:03 [khugepaged]
+root          49       2  0 06:05 ?        00:00:00 [kintegrityd]
+root          50       2  0 06:05 ?        00:00:00 [kblockd]
+root          51       2  0 06:05 ?        00:00:00 [blkcg_punt_bio]
+root          52       2  0 06:05 ?        00:00:00 [tpm_dev_wq]
+root          53       2  0 06:05 ?        00:00:00 [ata_sff]
+root          54       2  0 06:05 ?        00:00:00 [md]
+root          55       2  0 06:05 ?        00:00:00 [edac-poller]
+root          56       2  0 06:05 ?        00:00:00 [devfreq_wq]
+root          57       2  0 06:05 ?        00:00:00 [watchdogd]
+root          59       2  0 06:05 ?        00:00:05 [kworker/2:1H-kblockd]
+root          60       2  0 06:05 ?        00:01:56 [kswapd0]
+root          62       2  0 06:05 ?        00:00:00 [ecryptfs-kthread]
+root          68       2  0 06:05 ?        00:00:00 [kthrotld]
+root          73       2  0 06:05 ?        00:00:00 [acpi_thermal_pm]
+root          74       2  0 06:05 ?        00:00:00 [xenbus_probe]
+root          75       2  0 06:05 ?        00:00:00 [scsi_eh_0]
+root          76       2  0 06:05 ?        00:00:00 [scsi_tmf_0]
+root          77       2  0 06:05 ?        00:00:00 [scsi_eh_1]
+root          78       2  0 06:05 ?        00:00:00 [scsi_tmf_1]
+root          80       2  0 06:05 ?        00:00:00 [vfio-irqfd-clea]
+root          82       2  0 06:05 ?        00:00:00 [mld]
+root          83       2  0 06:05 ?        00:00:00 [ipv6_addrconf]
+root          84       2  0 06:05 ?        00:00:04 [kworker/1:1H-kblockd]
+root          89       2  0 06:05 ?        00:00:00 [kstrp]
+root          95       2  0 06:05 ?        00:00:00 [zswap-shrink]
+root          96       2  0 06:05 ?        00:00:00 [kworker/u9:0]
+root         142       2  0 06:05 ?        00:00:00 [charger_manager]
+root         143       2  0 06:05 ?        00:00:05 [kworker/3:1H-kblockd]
+root         186       2  0 06:05 ?        00:00:00 [scsi_eh_2]
+root         187       2  0 06:05 ?        00:00:00 [scsi_tmf_2]
+root         200       2  0 06:05 ?        00:00:05 [kworker/0:1H-kblockd]
+root         225       2  0 06:05 ?        00:00:10 [jbd2/sda3-8]
+root         226       2  0 06:05 ?        00:00:00 [ext4-rsv-conver]
+root         265       1  0 06:05 ?        00:00:12 /lib/systemd/systemd-journald
+root         310       2  0 06:05 ?        00:00:11 [irq/18-vmwgfx]
+root         311       2  0 06:05 ?        00:00:00 [card0-crtc0]
+root         313       2  0 06:05 ?        00:00:00 [card0-crtc1]
+root         314       2  0 06:05 ?        00:00:00 [card0-crtc2]
+root         315       2  0 06:05 ?        00:00:00 [card0-crtc3]
+root         316       2  0 06:05 ?        00:00:00 [card0-crtc4]
+root         317       2  0 06:05 ?        00:00:00 [card0-crtc5]
+root         318       2  0 06:05 ?        00:00:00 [card0-crtc6]
+root         319       2  0 06:05 ?        00:00:00 [card0-crtc7]
+root         326       1  0 06:05 ?        00:00:01 /lib/systemd/systemd-udevd
+root         387       2  0 06:05 ?        00:00:00 [cryptd]
+systemd+     509       1  0 06:05 ?        00:01:49 /lib/systemd/systemd-oomd
+systemd+     511       1  0 06:05 ?        00:00:05 /lib/systemd/systemd-resolved
+systemd+     514       1  0 06:05 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         673       1  0 06:05 ?        00:00:03 /usr/libexec/accounts-daemon
+root         674       1  0 06:05 ?        00:00:02 /usr/sbin/acpid
+avahi        679       1  0 06:05 ?        00:00:00 avahi-daemon: running [ubuntu.local]
+root         681       1  0 06:05 ?        00:00:00 /usr/sbin/cron -f -P
+message+     682       1  0 06:05 ?        00:00:07 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         683       1  0 06:05 ?        00:00:09 /usr/sbin/NetworkManager --no-daemon
+root         690       1  0 06:05 ?        00:00:05 /usr/sbin/irqbalance --foreground
+root         692       1  0 06:05 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         694       1  0 06:05 ?        00:00:04 /usr/libexec/polkitd --no-debug
+root         695       1  0 06:05 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       696       1  0 06:05 ?        00:00:01 /usr/sbin/rsyslogd -n -iNONE
+root         699       1  0 06:05 ?        00:00:22 /usr/lib/snapd/snapd
+root         703       1  0 06:05 ?        00:00:00 /usr/libexec/switcheroo-control
+root         707       1  0 06:05 ?        00:00:01 /lib/systemd/systemd-logind
+root         709       1  0 06:05 ?        00:00:01 /usr/libexec/udisks2/udisksd
+root         711       1  0 06:05 ?        00:00:01 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        718     679  0 06:05 ?        00:00:00 avahi-daemon: chroot helper
+root         756       1  0 06:05 ?        00:00:00 /usr/sbin/ModemManager
+root         765       1  0 06:05 ?        00:00:00 /usr/sbin/cupsd -l
+root         791       1  0 06:05 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         798       1  0 06:05 ?        00:00:00 /usr/sbin/gdm3
+root         824       1  0 06:05 ?        00:00:00 /usr/sbin/cups-browsed
+kernoops     832       1  0 06:05 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     836       1  0 06:05 ?        00:00:00 /usr/sbin/kerneloops
+rtkit        891       1  0 06:05 ?        00:00:03 /usr/libexec/rtkit-daemon
+root        1064       1  0 06:05 ?        00:00:03 /usr/libexec/upowerd
+root        1134       1  0 06:05 ?        00:00:01 /usr/libexec/packagekitd
+colord      1304       1  0 06:05 ?        00:00:00 /usr/libexec/colord
+root        1361     798  0 06:05 ?        00:00:01 gdm-session-worker [pam/gdm-password]
+donnell     1369       1  0 06:05 ?        00:00:34 /lib/systemd/systemd --user
+donnell     1370    1369  0 06:05 ?        00:00:00 (sd-pam)
+donnell     1376    1369  0 06:05 ?        00:00:00 /usr/bin/pipewire
+donnell     1377    1369  0 06:05 ?        00:00:00 /usr/bin/pipewire-media-session
+donnell     1378    1369  2 06:05 ?        00:17:24 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+donnell     1379    1369  0 06:05 ?        00:00:00 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
+donnell     1387    1369  0 06:05 ?        00:00:11 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+donnell     1390    1369  0 06:05 ?        00:00:00 /usr/libexec/gvfsd
+donnell     1396    1369  0 06:05 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+donnell     1397       1  0 06:05 ?        00:00:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+donnell     1418    1361  0 06:05 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+donnell     1426    1418  0 06:05 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+donnell     1435    1369  0 06:05 ?        00:00:01 /usr/libexec/xdg-document-portal
+donnell     1439    1369  0 06:05 ?        00:00:00 /usr/libexec/xdg-permission-store
+root        1449    1435  0 06:05 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+donnell     1471    1369  0 06:05 ?        00:00:12 /usr/libexec/tracker-miner-fs-3
+donnell     1497    1369  0 06:05 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+donnell     1511    1369  0 06:05 ?        00:00:01 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+donnell     1525    1511  0 06:05 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+donnell     1528    1369  3 06:05 ?        00:27:40 /usr/bin/gnome-shell
+donnell     1537    1525  0 06:05 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+donnell     1559    1369  0 06:05 ?        00:00:01 /usr/libexec/gvfs-udisks2-volume-monitor
+donnell     1571    1369  0 06:05 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+donnell     1577    1369  0 06:05 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+donnell     1581    1369  0 06:05 ?        00:00:00 /usr/libexec/goa-daemon
+donnell     1588    1369  0 06:05 ?        00:00:00 /usr/libexec/goa-identity-service
+donnell     1603    1369  0 06:05 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+donnell     1608    1369  0 06:05 ?        00:00:08 /usr/libexec/gvfs-afc-volume-monitor
+donnell     1648    1369  0 06:05 ?        00:00:01 /usr/libexec/gnome-shell-calendar-server
+donnell     1654    1369  0 06:05 ?        00:00:00 /usr/libexec/evolution-source-registry
+donnell     1659    1379  0 06:05 ?        00:00:01 /snap/snapd-desktop-integration/83/usr/bin/snapd-desktop-integration
+donnell     1662    1369  0 06:05 ?        00:00:01 /usr/libexec/evolution-calendar-factory
+donnell     1668    1369  0 06:05 ?        00:00:07 /usr/libexec/xdg-desktop-portal
+donnell     1672    1369  0 06:05 ?        00:00:43 /usr/libexec/xdg-desktop-portal-gnome
+donnell     1682    1369  0 06:05 ?        00:00:00 /usr/libexec/dconf-service
+donnell     1684    1369  0 06:05 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+donnell     1703    1390  0 06:05 ?        00:00:01 /usr/libexec/gvfsd-trash --spawner :1.2 /org/gtk/gvfs/exec_spaw/0
+donnell     1713    1369  0 06:05 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+donnell     1714    1369  0 06:05 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+donnell     1722    1369  0 06:05 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+donnell     1723    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+donnell     1725    1722  0 06:05 ?        00:00:32 /usr/bin/ibus-daemon --panel disable
+donnell     1730    1369  0 06:05 ?        00:00:02 /usr/libexec/gsd-color
+donnell     1732    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-datetime
+donnell     1735    1369  0 06:05 ?        00:00:03 /usr/libexec/gsd-housekeeping
+donnell     1736    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-keyboard
+donnell     1738    1369  0 06:05 ?        00:00:02 /usr/libexec/gsd-media-keys
+donnell     1740    1369  0 06:05 ?        00:00:02 /usr/libexec/gsd-power
+donnell     1742    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-print-notifications
+donnell     1746    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-rfkill
+donnell     1751    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+donnell     1754    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-sharing
+donnell     1769    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-smartcard
+donnell     1777    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-sound
+donnell     1779    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-wacom
+donnell     1796    1725  0 06:05 ?        00:00:00 /usr/libexec/ibus-memconf
+donnell     1798    1725  0 06:05 ?        00:00:07 /usr/libexec/ibus-extension-gtk3
+donnell     1804    1511  0 06:05 ?        00:00:01 /usr/libexec/evolution-data-server/evolution-alarm-notify
+donnell     1809    1369  0 06:05 ?        00:00:00 /usr/libexec/ibus-portal
+donnell     1835    1511  0 06:05 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+donnell     1861    1369  0 06:05 ?        00:00:00 /usr/libexec/gsd-printer
+donnell     1898    1725  0 06:05 ?        00:00:09 /usr/libexec/ibus-engine-simple
+donnell     1921    1369  0 06:05 ?        00:00:01 /usr/libexec/xdg-desktop-portal-gtk
+donnell     1977    1369  0 06:05 ?        00:00:00 keybase-redirector /keybase
+donnell     2004    1369  0 06:05 ?        00:00:26 /usr/libexec/gnome-initial-setup --existing-user
+donnell     2018    1369  0 06:05 ?        00:00:01 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+root        2125       1  0 06:05 ?        00:00:00 /usr/libexec/ubuntu-advantage-desktop-daemon
+donnell     2146    1369  0 06:05 ?        00:00:00 /usr/libexec/gvfsd-metadata
+donnell     2177    1528  0 06:05 ?        00:01:58 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.LFPU81 -listen 4 -listen 5 -displayfd 6 -initfd 7
+donnell     2181    1369  0 06:05 ?        00:00:01 /usr/libexec/gsd-xsettings
+donnell     2206    1369  0 06:05 ?        00:00:01 /usr/libexec/ibus-x11
+donnell     2337    1369  0 06:06 ?        00:01:47 /usr/libexec/gnome-terminal-server
+donnell     2355    2337  0 06:06 pts/0    00:00:02 bash
+donnell     2617    1369  0 06:06 ?        00:00:05 /usr/bin/snap userd
+donnell     3285    1511  0 06:06 ?        00:00:07 update-notifier
+donnell     3474    1369  0 06:07 ?        00:00:04 /usr/bin/gpg-agent --supervised
+donnell     8646    1369  0 08:41 ?        00:00:24 /usr/bin/nautilus --gapplication-service
+donnell     9007    1390  0 08:48 ?        00:00:00 /usr/libexec/gvfsd-network --spawner :1.2 /org/gtk/gvfs/exec_spaw/1
+donnell     9025    1390  0 08:48 ?        00:00:00 /usr/libexec/gvfsd-dnssd --spawner :1.2 /org/gtk/gvfs/exec_spaw/3
+donnell    10986    1528  0 10:10 ?        00:00:53 /usr/lib/thunderbird/thunderbird
+donnell    11166   10986  0 10:10 ?        00:00:02 /usr/lib/thunderbird/thunderbird -contentproc -childID 1 -isForBrowser -prefsLen 6236 -prefMapSize 232351 -jsInitLen 277276 -parentBuildID 20230704155023 -appDir /usr/lib/thunderbird 10986 true tab
+donnell    11275   10986  0 10:10 ?        00:00:03 /usr/lib/thunderbird/thunderbird -contentproc -childID 2 -isForBrowser -prefsLen 9065 -prefMapSize 232351 -jsInitLen 277276 -parentBuildID 20230704155023 -appDir /usr/lib/thunderbird 10986 true tab
+donnell    30187    1369  0 14:46 ?        00:00:00 /usr/lib/libreoffice/program/oosplash --draw file:///home/donnell/Downloads/cy2550.pub
+donnell    30202   30187  0 14:46 ?        00:00:22 /usr/lib/libreoffice/program/soffice.bin --draw file:///home/donnell/Downloads/cy2550.pub
+donnell    33180    1390  0 15:29 ?        00:00:00 /usr/libexec/gvfsd-http --spawner :1.2 /org/gtk/gvfs/exec_spaw/4
+donnell    34496    1369  3 15:47 pts/0    00:06:19 keybase --debug --use-default-log-file service --auto-forked
+donnell    34520    1369  0 15:47 pts/0    00:00:00 bash /usr/bin/run_keybase
+donnell    34521   34520  0 15:47 pts/0    00:01:21 kbfsfuse -debug -log-to-file
+donnell    34522    1369  0 15:47 pts/0    00:00:09 /opt/keybase/Keybase --enable-crashpad
+donnell    34523   34520  0 15:47 pts/0    00:00:00 tee /home/donnell/.cache/keybase/keybase.start.log
+donnell    34534   34522  0 15:47 pts/0    00:00:00 /opt/keybase/Keybase --type=zygote --no-zygote-sandbox --enable-crashpad --enable-crashpad
+donnell    34535   34522  0 15:47 pts/0    00:00:00 /opt/keybase/Keybase --type=zygote --enable-crashpad --enable-crashpad
+donnell    34537   34535  0 15:47 pts/0    00:00:00 /opt/keybase/Keybase --type=zygote --enable-crashpad --enable-crashpad
+donnell    34581   34522  0 15:47 pts/0    00:00:02 /opt/keybase/Keybase --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --enable-crashpad --enable-crash-reporter=39c9ae3a-cfff-4267-82d1-a1d55d6ddc0e,no_channel --user-data-dir=/home/donnell/.config/Keybase --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,1612771667841819029,11948908922007183835,131072 --disable-features=PlzServiceWorker,SpareRendererForSitePerProcess --enable-crashpad
+donnell    34585   34522  0 15:47 pts/0    00:00:03 /opt/keybase/Keybase --type=renderer --enable-crashpad --enable-crash-reporter=39c9ae3a-cfff-4267-82d1-a1d55d6ddc0e,no_channel --user-data-dir=/home/donnell/.config/Keybase --app-path=/opt/keybase/resources/app --no-sandbox --no-zygote --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --launch-time-ticks=34925284137 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,1612771667841819029,11948908922007183835,131072 --disable-features=PlzServiceWorker,SpareRendererForSitePerProcess --enable-crashpad
+donnell    34592   34522  0 15:47 pts/0    00:00:33 /opt/keybase/Keybase --type=renderer --enable-crashpad --enable-crash-reporter=39c9ae3a-cfff-4267-82d1-a1d55d6ddc0e,no_channel --user-data-dir=/home/donnell/.config/Keybase --app-path=/opt/keybase/resources/app --no-sandbox --no-zygote --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --launch-time-ticks=34925552755 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,1612771667841819029,11948908922007183835,131072 --disable-features=PlzServiceWorker,SpareRendererForSitePerProcess --enable-crashpad
+donnell    34644   34534  0 15:47 pts/0    00:00:04 /opt/keybase/Keybase --type=gpu-process --enable-crashpad --enable-crash-reporter=39c9ae3a-cfff-4267-82d1-a1d55d6ddc0e,no_channel --user-data-dir=/home/donnell/.config/Keybase --gpu-preferences=UAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABgAAAAAAAAAGAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=0,1612771667841819029,11948908922007183835,131072 --disable-features=PlzServiceWorker,SpareRendererForSitePerProcess
+donnell    34900    1369  7 15:50 pts/0    00:15:00 /snap/firefox/2356/usr/lib/firefox/firefox https://keybase.io/michaelmechenko
+donnell    35057   34900  0 15:50 pts/0    00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -prefsLen 26123 -prefMapSize 229144 -appDir /snap/firefox/2356/usr/lib/firefox/browser {5a5d55c9-28ce-4d63-ade6-670616661c60} 34900 true socket
+donnell    35361   34900  0 15:50 pts/0    00:00:24 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 26357 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {81ca3023-14f2-4c69-9bb5-efb3dbe59dae} 34900 true tab
+donnell    35396   34900  0 15:50 pts/0    00:00:04 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 30904 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {cf619c52-26e4-4931-859c-22ede0f52050} 34900 true tab
+donnell    35786   34900  6 15:50 pts/0    00:13:09 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 30985 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {93cba842-1949-4c43-ba09-d9346dd9eae1} 34900 true tab
+donnell    35927    1390  0 15:52 ?        00:00:00 /usr/libexec/gvfsd-recent --spawner :1.2 /org/gtk/gvfs/exec_spaw/5
+donnell    36318   34900  0 15:58 pts/0    00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -prefsLen 31037 -prefMapSize 229144 -appDir /snap/firefox/2356/usr/lib/firefox/browser {076302ed-4fc3-495a-81ff-dc14204dcce2} 34900 true rdd
+donnell    36321   34900  0 15:58 pts/0    00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -parentBuildID 20230214170610 -sandboxingKind 0 -prefsLen 31037 -prefMapSize 229144 -appDir /snap/firefox/2356/usr/lib/firefox/browser {df3c764c-73e6-4f06-a011-a97c0f38e4c6} 34900 true utility
+donnell    40006    1397  0 17:18 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+root       41708       2  0 18:03 ?        00:00:04 [kworker/u8:1-events_power_efficient]
+donnell    41711    1528  0 18:03 ?        00:00:06 rhythmbox
+donnell    41972   34900  0 18:10 pts/0    00:00:01 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 146 -isForBrowser -prefsLen 31144 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {733a4045-55f7-4d6d-a08c-ebed0f7b9518} 34900 true tab
+root       42914       2  0 18:28 ?        00:00:00 [kworker/0:1-events]
+root       43050       2  0 18:32 ?        00:00:02 [kworker/u8:2-events_power_efficient]
+donnell    43607    1528  0 18:48 ?        00:00:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:800:600:1:27:0:0:0:0
+root       43627       2  0 18:48 ?        00:00:01 [kworker/u8:3-events_unbound]
+donnell    43729   34900  0 18:51 pts/0    00:00:08 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 187 -isForBrowser -prefsLen 31141 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {34f3b485-c3e7-4c45-92df-fc500b472128} 34900 true tab
+root       43749       2  0 18:51 ?        00:00:00 [kworker/3:1-events]
+root       43864       2  0 18:54 ?        00:00:00 [kworker/1:0-events]
+root       43962       2  0 18:55 ?        00:00:00 [kworker/2:2-events]
+root       44213       2  0 19:02 ?        00:00:00 [kworker/1:1-events]
+root       44247       2  0 19:03 ?        00:00:00 [kworker/2:0-events]
+root       44284       2  0 19:04 ?        00:00:00 [kworker/3:0-events]
+root       44321       2  0 19:05 ?        00:00:00 [kworker/0:2-events]
+donnell    44445   34900  0 19:08 pts/0    00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 205 -isForBrowser -prefsLen 31141 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {efd84050-b3c8-4e70-b9c7-f8683d52c04b} 34900 true tab
+root       44464       2  0 19:08 ?        00:00:00 [kworker/1:2-events]
+donnell    44782   34900  0 19:09 pts/0    00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 206 -isForBrowser -prefsLen 31141 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {ef35b1c2-360b-42b6-8c1b-3554cd20ea63} 34900 true tab
+root       44906       2  0 19:09 ?        00:00:00 [kworker/2:1-events]
+donnell    45239   34900  0 19:10 pts/0    00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 207 -isForBrowser -prefsLen 31141 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {9e4664cc-4451-4c44-8460-10f29014d3fa} 34900 true tab
+root       45263       2  0 19:10 ?        00:00:00 [kworker/3:2-events]
+donnell    45279   34900  0 19:11 pts/0    00:00:00 /snap/firefox/2356/usr/lib/firefox/firefox -contentproc -childID 208 -isForBrowser -prefsLen 31141 -prefMapSize 229144 -jsInitLen 246560 -parentBuildID 20230214170610 -appDir /snap/firefox/2356/usr/lib/firefox/browser {b9a9558c-5fe6-45ab-b5c5-9173fba14724} 34900 true tab
+donnell    45298    2355  0 19:11 pts/0    00:00:00 ps -ef
