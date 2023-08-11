@@ -22,7 +22,7 @@ def generate_password(words, caps, numbers, symbols):
             words_list.insert(word_idx, str(num))
 
     if symbols > 0:
-        symbols_list = list(string.punctuation)
+        symbols_list = list(set(string.punctuation) - set("'\""))  # Exclude ' and " from symbols
         for i in range(symbols):
             symbol = random.choice(symbols_list)
             word_idx = random.randint(0, words - 1)
